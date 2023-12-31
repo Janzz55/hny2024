@@ -31,8 +31,6 @@ function timeleft() {
       loop={false}
       cursorStyle={"_"}
       cursor
-      typeSpeed={5}
-      deleteSpeed={10}
       />
     </span>
     <div className="z-50 text-white font-bold text-2xl">
@@ -40,7 +38,6 @@ function timeleft() {
     "Selamat","Tahun","Baru","Happy New Year 2024"
     ])}/>
     </div>
-
     </div>
  </>   
   );
